@@ -6,7 +6,7 @@
 2a0a:6040:f240::/42,PH,PH-LAG,Bay,4033
 2a0a:6040:f280::/42,PH,PH-LAG,Bay,4033
 2a0a:6040:f2c0::/48,PH,PH-LAG,Bay,4033
-2a0a:6040:f2c4::/46,NO,NO-38,Sandefjord,3241
+2a0a:6040:f2c4::/48,NO,NO-38,Sandefjord,3241
 2a0a:6040:f2c8::/46,LU,LU-LU,Luxembourg,
 2a0a:6040:f2cc::/46,SG,SG-05,Singapore,627753
 2a0a:6040:f2d0::/46,IT,IT-MI,MILAN,
