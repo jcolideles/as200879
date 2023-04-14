@@ -1,6 +1,6 @@
 2a06:a005:1d51::/48,,,,
 2a06:a005:b6a::/48,PH,PH-LAG,Bay,4033
-2a0a:280:1d00::/41,PH,PH-LAG,Bay,4033
+2a0a:280:1d00::/48,US,US-MO,North Kansas City,
 2a0a:280:1d80::/41,PH,PH-LAG,Bay,4033
 2a0a:6040:f200::/42,PH,PH-LAG,Bay,4033
 2a0a:6040:f240::/42,PH,PH-LAG,Bay,4033
@@ -11,4 +11,5 @@
 2a0a:6040:f2cc::/48,SG,SG-05,Singapore,627753
 2a0a:6040:f2d0::/48,IT,IT-MI,MILAN,
 2a0a:6040:f2d4::/48,US,US-CA,Fremont,94539
+2a0a:6040:f2d8::/48,US,US-MO,North Kansas City,
 2a12:dd47:df00::/44,PH,PH-LAG,Bay,4033
