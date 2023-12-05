@@ -2,6 +2,7 @@
 2a06:a005:b6a::/48,PH,PH-LAG,Bay,4033
 2a0a:280:1d00::/48,US,US-MO,North Kansas City,
 2a0a:280:1d04::/48,CA,CA-ON,Toronto,M5A2Y5
+2a0a:280:1d08::/48,NL,NL-NH,Amsterdam,1098
 2a0a:280:1d80::/41,PH,PH-LAG,Bay,4033
 2a0a:6040:f200::/42,PH,PH-LAG,Bay,4033
 2a0a:6040:f240::/42,PH,PH-LAG,Bay,4033
@@ -15,6 +16,8 @@
 2a0a:6040:f2d8::/48,US,US-MO,North Kansas City,
 2a0a:6040:f2dc::/48,US,US-WA,Tukwila,98168
 2a0a:6040:f2e0::/48,CA,CA-ON,Toronto,M5A2Y5
+2a0a:6040:f2e4::/48,NL,NL-NH,Amsterdam,1098
 2a0e:b107:2090::/48,US,US-MO,North Kansas City,
 2a12:dd47:3e00::/48,LU,LU-LU,Luxembourg,
+2a12:dd47:3e04::/48,NL-NH,Amsterdam,1098
 2a12:dd47:df00::/44,PH,PH-LAG,Bay,4033
